@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q8s2qV4vgVzJc3Ww/H3ND+9nfHow+5zP6oJr7IAItiL0kyQDDURFH26DKUrziFKnTKpLfG4EVnQwtxL8TLbTaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KompMaster\\source\\repos\\TelegramBotPizza\\TelegramBotPizza\\TelegramBotPizza.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KompMaster\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\KompMaster\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\KompMaster\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\KompMaster\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
